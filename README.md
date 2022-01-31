@@ -13,9 +13,9 @@
 
 <h1>Links<h1/>
 
-- Android Documentation - https://developer.android.com/trainin
-- Hilt Documentation - https://dagger.dev/hilt/
-- Codelab - https://developer.android.com/codelab
+- <h5> Android Documentation - </h5> https://developer.android.com/training/dependency-injection/hilt-android
+- <h5> Hilt Documentation - </h5> https://dagger.dev/hilt/
+- <h5> Codelab - </h5> https://developer.android.com/codelabs/android-hilt#0
 
 <h1>Reference</h1>
 
